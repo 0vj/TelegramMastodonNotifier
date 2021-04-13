@@ -1,1 +1,1 @@
-# TelegramMsatadonNotifier
+# TelegramMastadonNotifier
