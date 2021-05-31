@@ -1,2 +1,2 @@
 # TelegramMastodonNotifier
-Sender of Mastadon notifications to Telegram
+Sender of Mastodon notifications to Telegram
